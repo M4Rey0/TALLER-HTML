@@ -1,28 +1,20 @@
-/* Estilos propios requeridos por el taller */
-
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     background-color: #f8f9fa;
 }
-
-/* Estilo personalizado para el título principal */
 .titulo-personalizado {
     color: #2c3e50;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
-
-/* Formato especial para párrafos destacados */
 .texto-destacado {
     font-size: 1.2rem;
     color: #555;
     font-style: italic;
-    border-left: 4px solid #0d6efd; /* Borde azul de Bootstrap */
+    border-left: 4px solid #0d6efd; 
     padding-left: 15px;
 }
-
-/* Estilo para el enlace externo */
 .enlace-estilo {
     color: #d63384;
     font-weight: bold;
@@ -34,7 +26,6 @@ body {
     color: #a61e61;
 }
 
-/* Fondo especial para la zona del formulario */
 .formulario-zona {
     background-color: #e9ecef;
     border: 1px solid #dee2e6;
